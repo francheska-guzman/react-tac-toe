@@ -1,8 +1,4 @@
 # React Tac Toe
 
 
-Transfering the Tic Tac Toc application from my [General Assembly's Enterprise GitHub Account](https://git.generalassemb.ly/francheska-guzman) to my personal GitHub account. 
-
-### Sources:
-
-[React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html#getting-started)
+Transfering the tic-tac-toc game from my [General Assembly's Enterprise GitHub Account](https://git.generalassemb.ly/francheska-guzman) to my personal GitHub account. 
