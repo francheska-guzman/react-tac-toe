@@ -1,6 +1,6 @@
 {
   "name": "reacttactoe",
-  "homepage": "https://francheska-guzman.github.io/react-tac-toe",
+  "homepage": "https://francheska-guzman.github.io/tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
